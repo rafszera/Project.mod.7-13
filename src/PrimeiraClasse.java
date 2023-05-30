@@ -12,7 +12,5 @@ public class PrimeiraClasse {
         System.out.println(cliente.getValorTotal());
 
 
-
     }
-
 }

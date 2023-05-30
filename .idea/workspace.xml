@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetoMod7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItemVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Venda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
