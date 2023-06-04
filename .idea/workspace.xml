@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControleFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
     </list>
@@ -33,12 +36,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7",
     "onboarding.tips.debug.path": "C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="PrimeiraClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ControleFluxo">
+    <configuration name="ControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleFluxo" />
+      <module name="ProjetoMod7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiraClasse" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeiraClasse" />
       <module name="ProjetoMod7" />
       <method v="2">
@@ -47,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeiraClasse" />
+        <item itemvalue="Application.ControleFluxo" />
       </list>
     </recent_temporary>
   </component>
