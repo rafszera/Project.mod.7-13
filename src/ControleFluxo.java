@@ -3,18 +3,20 @@ public class ControleFluxo {
 
     public static void main(String args[]) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Digite um número: ");
+        System.out.println("Digite sua idade: ");
 
-        int result = s.nextInt();
+        int idade = s.nextInt();
 
-        if (result == 1) {
-            System.out.println("Resultado igual a 1");
-        } else if (result > 1) {
-            System.out.println("Resultado maior que 1");
+        if (idade <= 5) {
+            System.out.println("Você é um bebê");
+        } else if (idade >= 6 && idade <= 10) {
+            System.out.println("Você é uma criança");
+        } else if (idade >= 11 && idade <= 17){
+            System.out.println("Você é adolecente");
+        } else if (idade >= 18){
+            System.out.println("Você é um adulto");
         }
-        else {
-            System.out.println("Resultado menor que 1");
-        }
+
     }
 }
 
