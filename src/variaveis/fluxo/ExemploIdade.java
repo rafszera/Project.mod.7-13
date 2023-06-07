@@ -1,3 +1,5 @@
+package variaveis.fluxo;
+
 import java.util.Scanner;
 public class ExemploIdade {
 

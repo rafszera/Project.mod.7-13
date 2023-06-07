@@ -1,3 +1,5 @@
+package br.com.rsaibro.test;
+
 public class Cliente {
 
     private int codigo;

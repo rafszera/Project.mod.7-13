@@ -1,3 +1,7 @@
+package br.com.rsaibro.test;
+
+import br.com.rsaibro.test.Cliente;
+
 public class PrimeiraClasse {
 
     public static void main(String args[]) {

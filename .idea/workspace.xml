@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="fluxoIdade">
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploTabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemplosFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoMod7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoEbac.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Venda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +50,54 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploIdade">
+  <component name="RunManager" selected="Application.ExemploTabuada">
     <configuration name="ControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControleFluxo" />
-      <module name="ProjetoMod7" />
+      <module name="ProjetoEbac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploBreakContinue" />
+      <module name="ProjetoEbac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ExemploIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemploIdade" />
-      <module name="ProjetoMod7" />
+      <option name="MAIN_CLASS_NAME" value="ifelse.ExemploIdade" />
+      <module name="ProjetoEbac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploTabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploTabuada" />
+      <module name="ProjetoEbac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemplosFor" />
+      <module name="ProjetoEbac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PrimeiraClasse" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeiraClasse" />
-      <module name="ProjetoMod7" />
+      <option name="MAIN_CLASS_NAME" value="br.com.rsaibro.test.PrimeiraClasse" />
+      <module name="ProjetoEbac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploTabuada" />
+        <item itemvalue="Application.ExemploBreakContinue" />
+        <item itemvalue="Application.ExemplosFor" />
         <item itemvalue="Application.ExemploIdade" />
         <item itemvalue="Application.ControleFluxo" />
       </list>
@@ -111,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686067751476</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fluxoIdade">
+      <created>1686077482478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686077482478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
