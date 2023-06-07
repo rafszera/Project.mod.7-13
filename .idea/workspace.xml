@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="fluxoIdade">
-      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploTabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemplosFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploTabuadaDOWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploTabuadaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoMod7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoEbac.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExemploIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variaveis/fluxo/ExemploIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/ItemVenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/rsaibro/test/Venda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +41,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploTabuada">
-    <configuration name="ControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleFluxo" />
-      <module name="ProjetoEbac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExemploTabuadaDOWhile">
     <configuration name="ExemploBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploBreakContinue" />
-      <module name="ProjetoEbac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifelse.ExemploIdade" />
       <module name="ProjetoEbac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,9 +56,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemplosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemplosFor" />
+    <configuration name="ExemploTabuadaDOWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploTabuadaDOWhile" />
       <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variaveis.fluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploTabuadaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploTabuadaWhile" />
+      <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variaveis.fluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploWhile" />
+      <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variaveis.fluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploTabuadaDOWhile" />
+        <item itemvalue="Application.ExemploTabuadaWhile" />
+        <item itemvalue="Application.ExemploWhile" />
         <item itemvalue="Application.ExemploTabuada" />
         <item itemvalue="Application.ExemploBreakContinue" />
-        <item itemvalue="Application.ExemplosFor" />
-        <item itemvalue="Application.ExemploIdade" />
-        <item itemvalue="Application.ControleFluxo" />
       </list>
     </recent_temporary>
   </component>
@@ -154,12 +163,20 @@
       <option name="project" value="LOCAL" />
       <updated>1686077482478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="att">
+      <created>1686146535352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686146535352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comitando" />
     <MESSAGE value="fluxoIdade" />
-    <option name="LAST_COMMIT_MESSAGE" value="fluxoIdade" />
+    <MESSAGE value="att" />
+    <option name="LAST_COMMIT_MESSAGE" value="att" />
   </component>
 </project>
