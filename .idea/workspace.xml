@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/src/ex/collections/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/collections/ComparaNotaAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/collections/ExemploArrayListAluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex/collections/ExemploColeção.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/collections/ExemploArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex/collections/ExemploArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/collections/ExemploArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ex/collections/ExemploArrayListAluno.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,9 +49,22 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploArrayList">
+  <component name="RunManager" selected="Application.ExemploArrayListAluno">
     <configuration name="ExemploArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex.collections.ExemploArrayList" />
+      <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploArrayListAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.collections.ExemploArrayListAluno" />
       <module name="ProjetoEbac" />
       <extension name="coverage">
         <pattern>
@@ -96,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploWhile" />
-      <module name="ProjetoEbac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variaveis.fluxo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrimeiraClasse" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.rsaibro.test.PrimeiraClasse" />
       <module name="ProjetoEbac" />
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploArrayListAluno" />
         <item itemvalue="Application.ExemploArrayList" />
         <item itemvalue="Application.ExemploSwitch" />
         <item itemvalue="Application.ExemploTabuadaDOWhile" />
         <item itemvalue="Application.ExemploTabuadaWhile" />
-        <item itemvalue="Application.ExemploWhile" />
       </list>
     </recent_temporary>
   </component>
