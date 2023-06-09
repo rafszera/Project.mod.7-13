@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/src/ex/collections/ExemploColeção.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex/collections/ExemploColeção.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/collections/ExemploArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rafae/OneDrive/Área de Trabalho/Programar/Workspace/ProjetoMod7/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploSwitch">
+  <component name="RunManager" selected="Application.ExemploArrayList">
+    <configuration name="ExemploArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.collections.ExemploArrayList" />
+      <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExemploSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploSwitch" />
       <module name="ProjetoEbac" />
@@ -53,13 +66,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploTabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variaveis.fluxo.ExemploTabuada" />
-      <module name="ProjetoEbac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploArrayList" />
         <item itemvalue="Application.ExemploSwitch" />
         <item itemvalue="Application.ExemploTabuadaDOWhile" />
         <item itemvalue="Application.ExemploTabuadaWhile" />
         <item itemvalue="Application.ExemploWhile" />
-        <item itemvalue="Application.ExemploTabuada" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686162266088</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="att">
+      <created>1686275055228</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686275055230</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
