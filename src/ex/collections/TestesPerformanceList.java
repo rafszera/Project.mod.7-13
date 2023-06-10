@@ -43,7 +43,7 @@ public class TestesPerformanceList {
         }
 
         long tFim = System.currentTimeMillis();
-        System.out.println("Tempo total LinkedList ADD: " + (tFim + tInicio));
+        System.out.println("Tempo total LinkedList Add: " + (tFim + tInicio));
     }
     private static void testeArrayListRemove(){
         final int MAX = 2000;
@@ -75,6 +75,6 @@ public class TestesPerformanceList {
         }
 
         long tFim = System.currentTimeMillis();
-        System.out.println("Tempo total ArrayList ADD: " + (tFim + tInicio));
+        System.out.println("Tempo total ArrayList Add: " + (tFim + tInicio));
     }
 }
