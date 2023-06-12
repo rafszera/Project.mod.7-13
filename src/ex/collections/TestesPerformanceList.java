@@ -14,7 +14,7 @@ public class TestesPerformanceList {
 
     }
     private static void testeLinkedListRemove(){
-        final int MAX = 2000;
+        final int MAX = 900;
         long tInicio = System.currentTimeMillis();
         List<Integer> lista = new LinkedList<>();
 
@@ -30,7 +30,7 @@ public class TestesPerformanceList {
         System.out.println("tempo total LinkedListRemove: " + (tFim - tInicio));
     }
     private static void testeLinkedListAdd(){
-        final int MAX = 2000;
+        final int MAX = 900;
         long tInicio = System.currentTimeMillis();
         List<Integer> lista = new LinkedList<>();
 
@@ -46,7 +46,7 @@ public class TestesPerformanceList {
         System.out.println("Tempo total LinkedList Add: " + (tFim + tInicio));
     }
     private static void testeArrayListRemove(){
-        final int MAX = 90000;
+        final int MAX = 900;
         long tInicio = System.currentTimeMillis();
         List<Integer> lista = new LinkedList<>();
 
@@ -62,7 +62,7 @@ public class TestesPerformanceList {
         System.out.println("Tempo total ArrayListRemove : " + (tFim + tInicio));
     }
     private static void testeArrayListAdd(){
-        final int MAX = 90000;
+        final int MAX = 900;
         long tInicio = System.currentTimeMillis();
         List<Integer> lista = new ArrayList<>();
 
