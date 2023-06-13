@@ -14,7 +14,7 @@ public class TestesPerformanceList {
 
     }
     private static void testeLinkedListRemove(){
-        final int MAX = 900;
+        final int MAX = 800;
         long tInicio = System.currentTimeMillis();
         List<Integer> lista = new LinkedList<>();
 
