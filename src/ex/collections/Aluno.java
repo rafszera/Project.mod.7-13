@@ -61,7 +61,7 @@ public class Aluno implements Comparable<Aluno> {
 
 //    @Override
 //    public String toString() {
-//        return "Aluno{" +
+//        return "ex.collections.Aluno{" +
 //                "nome='" + nome + '\'' +
 //                ", curso='" + curso + '\'' +
 //                ", nota=" + nota +
