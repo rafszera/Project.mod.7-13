@@ -1,4 +1,4 @@
-package ex.collections;
+package br.collections;
 
 public class Aluno implements Comparable<Aluno> {
 
