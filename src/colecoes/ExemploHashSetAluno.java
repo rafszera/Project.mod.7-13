@@ -1,11 +1,12 @@
-package br.set;
+package colecoes;
 
-import br.collections.Aluno;
+
 import java.util.HashSet;
 import java.util.Set;
 
 public class ExemploHashSetAluno {
     public static void main(String args[]){
+
         exemploListaSimples();
         exemploConsultando();
         exemploRemover();

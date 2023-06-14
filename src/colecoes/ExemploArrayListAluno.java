@@ -1,17 +1,16 @@
-package br.collections;
+package colecoes;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
 public class ExemploArrayListAluno {
-    public static void main(String args[]){
+    public static void main(String[] args) {
         exemploListaSimplesOrdenadaComparatorAluno();
         exemploListaSimplesOrdenadaClasseExterna();
     }
     private static void exemploListaSimplesOrdenadaClasseExterna (){
         System.out.println("***exemploListaSimplesOrdenadaClasseExterna***");
-        List<String> lista = new ArrayList<String>();
+        List<String> lista = new ArrayList<>();
 
         Aluno a = new Aluno("Joao da Silva", "linux básico", 0);
         Aluno b = new Aluno("Antonio Souza", "OpenOffice", 0);
@@ -26,7 +25,7 @@ public class ExemploArrayListAluno {
     }
     private static void exemploListaSimplesOrdenadaComparatorAluno () {
         System.out.println("***exemploListaSimplesOrdenadaComparatorAluno***");
-        List<String> lista = new ArrayList<String>();
+        List<String> lista = new ArrayList<>();
 
         Aluno a = new Aluno("Joao da Silva", "linux básico", 20);
         Aluno b = new Aluno("Antonio Souza", "OpenOffice", 30);

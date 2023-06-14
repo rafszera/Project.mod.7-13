@@ -1,4 +1,4 @@
-package br.com.rsaibro.test;
+package rsaibro;
 
 public class Cliente {
 

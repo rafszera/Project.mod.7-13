@@ -1,4 +1,4 @@
-package br.collections;
+package colecoes;
 
 import java.util.Objects;
 

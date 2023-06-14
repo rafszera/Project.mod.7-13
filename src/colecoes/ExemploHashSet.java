@@ -1,6 +1,7 @@
-package br.set;
-import br.collections.Aluno;
-import java.util.*;
+package colecoes;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class ExemploHashSet {
     public static void main(String args[]){

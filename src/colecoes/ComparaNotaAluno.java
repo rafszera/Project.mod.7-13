@@ -1,4 +1,4 @@
-package br.collections;
+package colecoes;
 import java.util.Comparator;
 
 public class ComparaNotaAluno implements Comparator<Aluno> {
