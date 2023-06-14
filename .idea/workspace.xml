@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ExemploArrray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ExemploBubbleSortFixo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/ComparaNotaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/ComparaNotaAluno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +62,9 @@
       <recent name="br.collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploArrray">
-    <configuration name="ExemploArrray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.ExemploArrray" />
+  <component name="RunManager" selected="Application.ExemploBubbleSortFixo">
+    <configuration name="ExemploArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ExemploArray" />
       <module name="ProjetoEbac" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.set.ExemploHashSet" />
+    <configuration name="ExemploBubbleSortFixo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ExemploBubbleSortFixo" />
       <module name="ProjetoEbac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.collections.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploArrray" />
+        <item itemvalue="Application.ExemploBubbleSortFixo" />
+        <item itemvalue="Application.ExemploArray" />
         <item itemvalue="Application.testeSca" />
         <item itemvalue="Application.br.collections.ExemploHashSetAluno" />
         <item itemvalue="Application.ExemploHashSetAluno" />
-        <item itemvalue="Application.ExemploHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686718769326</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="att">
+      <created>1686768804194</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686768804194</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,5 +341,15 @@
     <MESSAGE value="fluxoIdade" />
     <MESSAGE value="att" />
     <option name="LAST_COMMIT_MESSAGE" value="att" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
