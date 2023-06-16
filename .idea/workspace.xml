@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/src/colecoes/map/ExemploLinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/map/ExemploSalaAula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/CanetaEsferografica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/CarroPasseio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/Giz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/ICaneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/ICarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/Lapis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/interfaces/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,20 +70,7 @@
       <recent name="br.collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploSalaAula">
-    <configuration name="ExemploBubbleSortDinamico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.ExemploBubbleSortDinamico" />
-      <module name="ProjetoEbac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="ExemploHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.map.ExemploHashMap" />
       <module name="ProjetoEbac" />
@@ -136,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.interfaces.Teste" />
+      <module name="ProjetoEbac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.ExemploSalaAula" />
         <item itemvalue="Application.ExemploLinkedHashMap" />
         <item itemvalue="Application.ExemploTreeMap" />
         <item itemvalue="Application.ExemploHashMap" />
-        <item itemvalue="Application.ExemploBubbleSortDinamico" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686857445400</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="att">
+      <created>1686862583713</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1686862583713</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
