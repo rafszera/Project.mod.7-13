@@ -25,5 +25,9 @@ public class Teste {
        carro.andar();
        carro.parar();
 
+        ICarro caminhao = new Caminhao();
+        caminhao.andar();
+        caminhao.parar();
+
     }
 }
