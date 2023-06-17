@@ -9,8 +9,6 @@ public class Caminhao implements ICarro {
     @Override
     public void andar(){
         System.out.println("Caminhão está em movimento");
-
-
     }
 
 
