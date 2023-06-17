@@ -8,7 +8,7 @@ public class Comissionado extends Empregado {
 
 
     @Override
-    public Double vencimento() {
+    public Integer vencimento() {
         return null;
     }
 }

@@ -7,7 +7,7 @@ public class Horista extends Empregado{
     private Double horaTrabalhada;
 
     @Override
-    public Double vencimento() {
+    public Integer vencimento() {
         return null;
     }
 }

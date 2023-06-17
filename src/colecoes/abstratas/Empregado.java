@@ -32,5 +32,5 @@ public abstract class Empregado {
         this.nome = nome;
     }
 
-    public abstract Double vencimento();
+    public abstract Integer vencimento();
 }
