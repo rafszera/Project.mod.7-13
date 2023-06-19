@@ -66,7 +66,7 @@
   <component name="RunManager" selected="Application.colecoes.agregacao.Programa">
     <configuration name="ExemploLinkedHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.map.ExemploLinkedHashMap" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.map.*" />
@@ -79,7 +79,7 @@
     </configuration>
     <configuration name="ExemploSalaAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.map.ExemploSalaAula" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.map.*" />
@@ -92,14 +92,14 @@
     </configuration>
     <configuration name="PrimeiraClasse" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.rsaibro.test.PrimeiraClasse" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.abstratas.Programa" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.abstratas.*" />
@@ -112,7 +112,7 @@
     </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.interfaces.Teste" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.interfaces.*" />
@@ -125,13 +125,26 @@
     </configuration>
     <configuration name="colecoes.agregacao.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.agregacao.Programa" />
-      <module name="ProjetoEbac" />
+      <module name="Project.mod.7-13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.agregacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Project.mod.7-13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Project.mod.7-13" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
