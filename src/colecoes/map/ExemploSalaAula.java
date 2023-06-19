@@ -1,6 +1,6 @@
 package colecoes.map;
 
-import colecoes.Aluno;
+import colecoes.arrays.Aluno;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes.arrays;
 
 public class ExemploBubbleSortFixo {
     public static void main(String[] args) {

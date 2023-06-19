@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes.arrays;
 import java.util.PriorityQueue;
 import java.util.Queue;
 public class ExemploPriorityQueue {
