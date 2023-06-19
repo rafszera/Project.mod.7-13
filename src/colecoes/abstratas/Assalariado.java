@@ -2,18 +2,18 @@ package colecoes.abstratas;
 
 public class Assalariado extends Empregado {
 
-        private Integer salario;
+        private Double salario;
 
-        public Integer getSalario() {
+        public Double getSalario() {
                 return salario;
         }
 
-        public void setSalario(Integer salario) {
+        public void setSalario(Double salario) {
                 this.salario = salario;
         }
 
         @Override
-        public Integer vencimento() {
+        public Double vencimento() {
                 return null;
         }
 }
