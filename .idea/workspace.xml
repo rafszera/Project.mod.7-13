@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd316733-e3ce-4ce9-8450-f857ae943799" name="Changes" comment="att">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/abstratas/Assalariado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/abstratas/Assalariado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/abstratas/Comissionado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/abstratas/Comissionado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/abstratas/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/abstratas/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/abstratas/Horista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/abstratas/Horista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/colecoes/abstratas/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/abstratas/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +29,8 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/colecoes/ExemploHashSetAluno.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/colecoes/abstratas/Horista.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/colecoes/abstratas/Programa.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

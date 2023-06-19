@@ -29,6 +29,10 @@ public class Programa {
         horista.setPrecoHora(30d);
         horista.setHoraTrabalhada(40d);
         System.out.println("Nome: " + horista.getNome() + "\nSobrenome: " + horista.getSobrenome() + "\nCPF: " + horista.getCPF() + " \nGanhos Semanais: $" + horista.vencimento());
+        imprimir(horista);
+    }
+    public static void imprimir(Empregado empregado){
+        System.out.println(empregado.getNome() + " Tem salário " + empregado.vencimento());
 
     }
 }
